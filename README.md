@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer specializing in database design and maintenance, front-end and back-end development using tools and technology like Java, C#, Python, JavaScript, MySQL/PLSQL and etc to deliver systems that are delivered on time, within budge and meet client requirements. 
+I am a software developer specializing in database design and maintenance, front-end and back-end development using tools and technology like Java, C#, Python, JavaScript,Dart, Flutter, MySQL/PLSQL and etc to deliver systems that are delivered on time, within budge and meet client requirements. 
 
 
 ## 🌐 Socials:
